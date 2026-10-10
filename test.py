@@ -11,7 +11,7 @@ try:
                        "host": "127.0.0.1",
                        "port": 3306,
                        "database": "tennis_game_analytics",
-                       "user": "root",
+                       "user": "root@localhost",
                        "password": "1517"
                    }
                )
