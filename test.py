@@ -176,7 +176,6 @@ if not venue_df.empty and "complex_name" not in venue_df.columns:
 
 
 st.title("🎾 Tennis Ranking Explorer")
-st.caption("CSV mode — this app does not connect to MySQL.")
 st.sidebar.header("Filters")
 
 # Dashboard metrics
